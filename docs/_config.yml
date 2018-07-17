@@ -1,0 +1,26 @@
+
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            "Hyde theme in Jekyll"
+tagline:          ''
+description:      ''
+
+
+
+
+
+
+
+links:
+  - title: Home
+    url: /
+  - title: Schedule
+    url: /schedule
+  - title: Resources
+    url: /resources
+  - title: Instructor
+    url: http://shot.holycross.edu/~nsmith/
+    external: true
